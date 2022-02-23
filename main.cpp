@@ -1,5 +1,5 @@
 #include <iostream>
-#include "classe.h"
+#include "computador.h"
 #include <stdlib.h>
 
 using namespace std;
